@@ -1,0 +1,24 @@
+h1 {
+    background-color: purple;
+    color: 	#FFFFFF;
+    padding-left: 3%;
+    padding-top:6%;
+    padding-bottom: 6%;
+    text-align: center;
+}
+
+#controls {
+    background-color: yellow;
+    padding-left: 3%
+}
+
+#result {
+    background-color: red;
+    padding-left: 3%
+}
+
+
+#hrid{
+    width:10%;
+    
+}
